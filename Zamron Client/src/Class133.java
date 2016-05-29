@@ -37,6 +37,7 @@ public class Class133 {
 			boolean bool = false;
 			NPCDefinitions class503 = class365_sub1_sub1_sub2_sub1.aClass503_10190;
 			if (class503.anIntArray6188 != null)
+				class503 = class503.method6240(Class128.aClass148_6331, 1885989341);
 			if (null != class503)
 				bool = class503.aBoolean6163;
 			((ClientScript2) class403).anIntArray5244[((((ClientScript2) class403).anInt5239 += -391880689) * 681479919 - 1)] = bool ? 1 : 0;
